@@ -1,0 +1,2 @@
+method_number,method,model,train_size,validation_size,test_size,accuracy,macro_f1,macro_precision,macro_recall
+4,Transformer fine-tuning,distilbert-base-uncased,12000,2000,2000,0.919,0.9187997942832197,0.9191589488965997,0.919

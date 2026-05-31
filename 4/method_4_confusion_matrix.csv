@@ -1,0 +1,5 @@
+,pred_World,pred_Sports,pred_Business,pred_Sci/Tech
+true_World,468,4,17,11
+true_Sports,5,490,3,2
+true_Business,22,3,423,52
+true_Sci/Tech,11,2,30,457
