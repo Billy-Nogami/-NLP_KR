@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# Generated training artifacts are too large for the coursework repository.
+4/method_4_distilbert_checkpoints/
+4/method_4_distilbert_ag_news/
+method_4_distilbert_checkpoints/
+method_4_distilbert_ag_news/
